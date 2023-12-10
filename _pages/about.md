@@ -12,4 +12,4 @@ I'm a third year undergraduate student from [the School of Gifted Young](http://
 
 You can find my CV here: [Qihao Hu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](lazylamb56@gmail.com) / [Github](https://github.com/Qihao-Hu)
+[Email](mailto:lazylamb56@gmail.com) / [Github](https://github.com/Qihao-Hu)
